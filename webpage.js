@@ -3,12 +3,12 @@ var layout = {
     text:'Plot Title',
     font: {
       family: 'Courier New, monospace',
-      size: 24
+      size: 154
     },
     xref: 'paper',
     x: 0.05,
   },
-  paper_bgcolor: "blue",
+  paper_bgcolor: "orange",
   xaxis: {
     title: {
       text: 'x Axis Line',

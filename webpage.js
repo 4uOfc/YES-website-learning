@@ -8,7 +8,7 @@ var layout = {
     xref: 'paper',
     x: 0.05,
   },
-  paper_bgcolor: "orange",
+  paper_bgcolor: "blue",
   xaxis: {
     title: {
       text: 'x Axis Line',
